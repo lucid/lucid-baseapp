@@ -1,0 +1,14 @@
+This is a sample application that you can make a Lucid app from.
+
+First, rename "AppName" and "AppName.js" to the sysname of your application. This must be unique to your application.
+
+Next, replace all occurances of "AppName" with the sysname choosen above.
+
+Lastly, change the name of your application in /nls/main.js.
+
+You may add additional translations to the /nls/ folder. For example, if I wanted to make a spanish translation, I'd make a directory called 'es' and copy main.js (along with any additional files you have made) to that folder.
+
+To make things easy to find, you should name your repository like so: lucid-app-AppName
+This way it's easy to find.
+
+If you have any other questions, visit http://www.psychdesktop.net/ for documentation, forums, and information about our IRC channel.
