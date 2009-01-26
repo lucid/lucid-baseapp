@@ -1,0 +1,13 @@
+{
+	"type": "application",
+	"sysname": "AppName",
+	"name": "Application Name",
+	"author": "Your Name Here",
+	"email": "your@email.com",
+	"version": "1.0",
+	"maturity": "Stable",
+	"category": "Accessories",
+	"icon": "icon.png",
+	"filetypes": [],
+	"compatible": ["1.0.0"]
+}

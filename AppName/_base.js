@@ -11,7 +11,8 @@ dojo.declare("desktop.apps.AppName", desktop.apps._App, {
             title: nls.title,
             width: "500px",
             height: "400px",
-            main: true
+            main: true,
+            iconClass: this.iconClass
         });
         this.windows.push(win);
         
